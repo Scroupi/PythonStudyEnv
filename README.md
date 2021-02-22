@@ -1,5 +1,5 @@
 # PythonStudyEnv
-I will post here all my progress of studying.
-I have no expiriance in any other language. 
-My idea is to documente all the path that im going to take
-From start to point where i'm employee of some company:)
+I didnt practice programming for a long time, but now im back on track
+Here is my first cmd application 
+I've learnd something about classes and OOP
+So this is what i can do so far
